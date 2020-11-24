@@ -26,9 +26,5 @@ export default {
       autocompleteList: [],
     };
   },
-
-  created() {},
-  computed: {},
-  methods: {},
 };
 </script>

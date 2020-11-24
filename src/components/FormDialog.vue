@@ -66,7 +66,6 @@ export default {
   created() {
     this.internalDialog = this.dialog;
   },
-  computed: {},
   methods: {
     emitDialog() {
       this.$emit("updateDialog", this.internalDialog);
